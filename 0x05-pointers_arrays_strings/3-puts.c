@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include <stdio.h>s
 
 /**
  * _puts - Write a function that prints a string, followed
