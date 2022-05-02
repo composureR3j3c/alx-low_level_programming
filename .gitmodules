@@ -1,0 +1,15 @@
+[submodule "printf"]
+	path = printf
+	url = https://github.com/Pericles001/printf.git
+[submodule "simple_shell"]
+	path = simple_shell
+	url = https://github.com/underscoDe/simple_shell.git
+[submodule "monty"]
+	path = monty
+	url = https://github.com/underscoDe/monty
+[submodule "binary_trees"]
+	path = binary_trees
+	url = https://github.com/underscoDe/binary_trees.git
+[submodule "sorting_algorithms"]
+	path = sorting_algorithms
+	url = https://github.com/underscoDe/sorting_algorithms.git
